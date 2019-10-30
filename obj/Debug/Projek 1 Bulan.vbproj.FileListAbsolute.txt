@@ -1,0 +1,22 @@
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\bin\Debug\Aplikasi Penerimaan Siswa Baru.exe.config
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\bin\Debug\Aplikasi Penerimaan Siswa Baru.exe
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\bin\Debug\Aplikasi Penerimaan Siswa Baru.pdb
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\bin\Debug\Aplikasi Penerimaan Siswa Baru.xml
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.Form1.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.Login.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.Menu.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.Resources.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek 1 Bulan.vbproj.GenerateResource.Cache
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Aplikasi Penerimaan Siswa Baru.exe
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Aplikasi Penerimaan Siswa Baru.xml
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Aplikasi Penerimaan Siswa Baru.pdb
+C:\Users\imam salji\documents\visual studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.statuslulus.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.Datadaftar.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.Home.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.Datajalur.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.pembayaran.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.daftar.resources
+C:\Users\imam salji\Documents\Visual Studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.dalamlogin.resources
+C:\Users\imam salji\documents\visual studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.kelulusan.resources
+C:\Users\imam salji\documents\visual studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek 1 Bulan.vbprojResolveAssemblyReference.cache
+C:\Users\imam salji\documents\visual studio 2013\Projects\Projek 1 Bulan\obj\Debug\Projek_1_Bulan.hasildaftar.resources

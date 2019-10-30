@@ -1,0 +1,35 @@
+﻿Imports System.Data.OleDb
+
+Public Class Login
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        daftar.Show()
+    End Sub
+    Private Sub Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        TextBox3.Text = ""
+        TextBox1.Text = ""
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        If TextBox3.Text = "" And TextBox1.Text = "" Then
+            MsgBox("Silahkan isi terlebih dahulu")
+        Else
+            Call konek()
+            cmd = New OleDbCommand("select * from akun where Username='" & TextBox3.Text & "' and password='" & TextBox1.Text & "'", con)
+            rd = cmd.ExecuteReader
+            rd.Read()
+            If rd.HasRows Then
+                TextBox3.Text = ""
+                TextBox1.Text = ""
+                Me.Hide()
+                dalamlogin.Show()
+            Else
+                MsgBox("user atau pass salah")
+                TextBox3.Text = ""
+                TextBox1.Text = ""
+            End If
+        End If
+
+    End Sub
+
+End Class
